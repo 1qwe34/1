@@ -1,6 +1,6 @@
 package com.sky.handler;
 
-import com.ibm.j9ddr.vm29.structure.message;
+//import com.ibm.j9ddr.vm29.structure.message;
 import com.sky.constant.MessageConstant;
 import com.sky.exception.BaseException;
 import com.sky.result.Result;
